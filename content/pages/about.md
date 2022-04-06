@@ -9,13 +9,19 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Mi nombre es  ***Manuel Sanabria***, tengo 34 años y trabajo para una empresa de tecnología en donde se desarrolla una app de seguridad y monitoreo GPS. Soy entusiasta de la tecnología y el desarrollo web y de aplicaciones móviles principalmente del lado del Frontend utilizando tecnologías modernas.
+> 
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Algunos de mis gustos y pasatiempos son:** 
 
+- El arte abstracto.
+- Música (Rock, Metal, 80's)
+- Literatura de Terror.
+- Películas independientes.
+- Cultura nórdica.
+
+**Mi objetivo principal de este viaje es:**
+
+- Incrementar mi nivel de conocimiento.
+- Desarrollo FullStack.
+- Trabajar para una empresa Internacional en un futuro.
